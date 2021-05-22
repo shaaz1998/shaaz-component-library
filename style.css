@@ -7,7 +7,7 @@
     --primary-color:#6B7280;
     --dark-grey-color:#374151;
     --white-color:white;
-    --light-grey:#9CA3AF;
+    --light-grey:#E5E7EB;
 }
 hr{
     margin: 2rem;
@@ -89,4 +89,13 @@ hr{
 
     color: var(--dark-grey-color);
 }
+/* section */
+.ow{
+    background-color: var(--light-grey);
+}
+
+
+
+    
+
 
