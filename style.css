@@ -52,7 +52,7 @@ hr{
 }
 .list-inline{
     display: inline;
-    padding: 0rem 1rem;
+    
 }
 /* navgition */
 
@@ -92,6 +92,16 @@ hr{
 /* section */
 .ow{
     background-color: var(--light-grey);
+}
+/* Footer */
+.footer{
+    background-color:var(--primary-color);
+    border-top-right-radius: 1rem;
+}
+a:hover{
+    font-size: 1rem;
+    font-weight: bolder;
+
 }
 
 
