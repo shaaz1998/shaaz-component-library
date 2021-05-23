@@ -30,8 +30,8 @@ hr {
 
 .link {
     text-decoration: none;
-    padding: 1rem 1rem;
-    margin: 0.5rem 0.5rem;
+    padding: 1rem ;
+    /* margin: 0.5rem ; */
     border-radius: 1rem;
 
 
@@ -94,7 +94,7 @@ hr {
 }
 
 .hero .hero-img {
-    max-width: 350px;
+    max-width: 600px;
     display: block;
     margin: auto;
 }
